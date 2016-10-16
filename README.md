@@ -1,2 +1,5 @@
 # hello-world
-just practice
+
+Hi humans!
+
+I am now following the tutorials, high on coffee, I am learning how to use github.
